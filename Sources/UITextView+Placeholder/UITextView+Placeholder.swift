@@ -11,7 +11,7 @@ private var placeholderKey: UInt8 = 0
 private var placeholderViewKey: UInt8 = 0
 
 extension UITextView {
-    var placeholder: String? {
+    public var placeholder: String? {
         get {
             return objc_getAssociatedObject(self, &placeholderKey) as? String
         }
