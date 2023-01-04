@@ -1,3 +1,3 @@
 # UITextView+Placeholder
 
-A description of this package.
+给UITextView添加Placeholder的扩展。
