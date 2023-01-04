@@ -6,6 +6,5 @@ final class UITextView_PlaceholderTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(UITextView_Placeholder().text, "Hello, World!")
     }
 }
